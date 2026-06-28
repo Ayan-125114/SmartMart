@@ -1,0 +1,26 @@
+src/
+ ├── pages/
+ │   ├── Login.jsx
+ │   ├── Register.jsx
+ │   ├── Home.jsx
+ │   ├── ShopDetails.jsx
+ │   ├── Cart.jsx
+ │   ├── Orders.jsx
+ │   └── SellerDashboard.jsx
+ │
+ ├── components/
+ │   ├── Navbar.jsx
+ │   ├── ShopCard.jsx
+ │   ├── ProductCard.jsx
+ │   └── ProtectedRoute.jsx
+ │
+ ├── services/
+ │   ├── authService.js
+ │   ├── shopService.js
+ │   ├── productService.js
+ │   ├── cartService.js
+ │   └── orderService.js
+ │
+ └── context/
+     └── AuthContext.jsx
+
